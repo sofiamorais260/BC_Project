@@ -1,0 +1,10 @@
+	FILE	CTRLN
+T3_A	HAP1-TKOv3-bagel.BATCH1_HAP1_T3.T3_A.readcount	1
+T3_B	HAP1-TKOv3-bagel.BATCH1_HAP1_T3.T3_B.readcount	1
+T3_C	HAP1-TKOv3-bagel.BATCH1_HAP1_T3.T3_C.readcount	1
+T18_A	HAP1-TKOv3-bagel.BATCH1_HAP1_T18.T18_A.readcount	1
+T18_B	HAP1-TKOv3-bagel.BATCH1_HAP1_T18.T18_B.readcount	1
+T18_C	HAP1-TKOv3-bagel.BATCH1_HAP1_T18.T18_C.readcount	1
+T18_A_Starved	HAP1-TKOv3-bagel.BATCH1_HAP1_T18_STARVED.T18_A_Starved.readcount	1
+T18_B_Starved	HAP1-TKOv3-bagel.BATCH1_HAP1_T18_STARVED.T18_B_Starved.readcount	1
+T18_C_Starved	HAP1-TKOv3-bagel.BATCH1_HAP1_T18_STARVED.T18_C_Starved.readcount	1
